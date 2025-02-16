@@ -1,8 +1,7 @@
 # CLI Sauce
 > Chef | 17th Feb 2023
 ---
-## What's Cookin'?
-
+## What's cookin'?
 This repo serves up two scripts to make your terminal less boring (the scripts themselves are boring btw)
  
 ### 1. Fortune cookie for your terminal
@@ -39,7 +38,7 @@ $HOME/CLI-Sauce/forture_cookie.sh
 ```
 
 
-```
+```bash
 # For add this as an alias in your .bashrc
 alias your_command='$HOME/CLI-Sauce/flex_it.sh
 
