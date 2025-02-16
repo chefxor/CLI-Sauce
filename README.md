@@ -5,10 +5,10 @@
 
 This repo serves up two scripts to make your terminal less boring (the scripts themselves are boring btw)
  
-### **1. Fortune cookie for your terminal
+### 1. Fortune cookie for your terminal
 Every time you open your terminal, BAM! A random quote pops up. Motivation? Wisdom? Just nonsense? Who knows 
 
-### **2. A simple fetch - nothing fancy
+### 2. A simple fetch - nothing fancy
 Think of it as your terminal's self-esteem booster. Shows:
 - OS Name
 - Kernel Version
