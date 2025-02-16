@@ -2,10 +2,14 @@
 # Github: https://github.com/chefxor
 
 cookie=(
-"Men are brave"
+
+"I’m not saying I’m Batman, but have you ever seen us in the same room together?"
+"It’s just a flesh wound."
+"I have people skills! I am good at dealing with people!"
+"I’m not lazy. I’m just on energy-saving mode."
+"If I’m not back in five minutes… just wait longer."
+"I'm not arguing that with you. I'm just explaining why I'm right."
 "Let me show you how the boss does it"
-"I'm Ironman"
-"Wakanda forever"
 "Real eyes realize real lies"
 "Now you see me now you dont. now you see me boom you are dead"
 "Give up on your dream and die"
@@ -16,8 +20,6 @@ cookie=(
 "What is the cost of lies"
 "It's all right to cry. It's all right to run away. Just dont ever give up"
 "Say my name"
-"How can you destroy a monster without becoming one?"
-"I'm tired...I dont care anymore"
 "You get what you f**king deserve"
 "Man plans, God laughs"
 "Sometimes home is not a place, It's a person"
@@ -31,6 +33,17 @@ cookie=(
 "Git commit, because life’s all about changes!"
 "You miss 100% of the commands you don’t alias!"
 "Keep calm and sudo on!"
+"I’m not superstitious, but I am a little stitious."
+"It’s not that I can’t help myself. I just don’t want to."
+"I’m one stomach flu away from my goal weight."
+"I’d agree with you, but then we’d both be wrong."
+"You couldn’t handle my undivided attention."
+"I’m not saying I’m Batman, but have you ever seen us in the same room together?"
+"It’s just a flesh wound."
+"I have people skills! I am good at dealing with people!"
+"I’m not lazy. I’m just on energy-saving mode."
+"If I’m not back in five minutes… just wait longer."
+"I'm not arguing that with you. I'm just explaining why I'm right."
 )
 
 rand=$[$RANDOM % ${#cookie[@]}]
