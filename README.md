@@ -30,19 +30,16 @@ bash
 3. Open your terminal and bask in the glory.
 
 ```bash
-# For a daily dose of wisdom
-./fortune_cookie.sh
-
-# You can also add it to your .bashrc and autospawn it 
+# add it to your .bashrc or .zshrc. This will autospawn it everytime you open the shell
 $HOME/CLI-Sauce/forture_cookie.sh
 ```
 
 
 ```bash
-# For add this as an alias in your .bashrc
-alias your_command='$HOME/CLI-Sauce/flex_it.sh
+# add this as an alias in your .bashrc or .zshrc
+alias your_command='$HOME/CLI-Sauce/flex_it.sh'
 
-# Run your command to fetch
+# Run alias to fetch
 your_command
 ```
 
