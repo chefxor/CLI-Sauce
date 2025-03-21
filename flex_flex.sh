@@ -33,4 +33,3 @@ echo -e "${BOLD}${CYAN}Memory:${RESET} ${MEMORY}"
 
 # Exit script
 exit 0
-

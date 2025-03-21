@@ -2,22 +2,21 @@
 #+AUTHOR: Chef
 #+DATE: <2025-02-17 Mon>
 
-
 * TABLE OF CONTENTS :toc:
 - [[#whats-cookin][What's cookin'?]]
   - [[#1-fortune-cookie-for-your-terminal][1. Fortune cookie for your terminal]]
-  - [[#2-a-simple-fetch---nothing-fancy][2. A simple fetch - nothing fancy]]
+  - [[#2-ff---a-simple-fetch][2. FF - a simple fetch]]
 - [[#ingredients-needed][Ingredients needed]]
 - [[#how-to-run-them][How to run them]]
 
 * What's cookin'?
-This repo serves up two scripts to make your terminal less boring (the scripts themselves are boring btw)
+This repo serves up two simple scripts to make your terminal less boring
  
 ** 1. Fortune cookie for your terminal
-Every time you open your terminal, BAM! A random quote pops up. Motivation? Wisdom? Just nonsense? Who knows 
+Every time you open your terminal, BAM! A random quote pops up. Motivation? Wisdom? Just nonsense? Who knows!
 
-** 2. A simple fetch - nothing fancy
-Think of it as your terminal's self-esteem booster. Shows:
+** 2. FF - a simple fetch
+A simple fetch script - nothing fancy. Shows:
 - OS Name
 - Kernel Version
 - Uptime
@@ -29,7 +28,7 @@ Think of it as your terminal's self-esteem booster. Shows:
 #+begin_src bash
 lolcat
 figlet
-bash or zsh
+bash (or zsh)
 #+end_src
 
 * How to run them
@@ -44,8 +43,8 @@ $HOME/CLI-Sauce/forture_cookie.sh
 
 #+begin_src bash
 # add this as an alias in your .bashrc or .zshrc
-alias your_command='$HOME/CLI-Sauce/flex_it.sh'
+alias ff='$HOME/CLI-Sauce/flex_flex.sh'
 
 # Run alias to fetch
-your_command
+ff
 #+end_src
